@@ -1,6 +1,10 @@
 # eeg-mental-state-classification
 EEG brainwave mental-state classification using Random Forest to practice what I have learned ffrom my ML tutorials.
 
+**Research**:
+
+https://jordanjamesbird.com/publications/A-Study-on-Mental-State-Classification-using-EEG-based-Brain-Machine-Interface.pdf
+
 **Dataset**:
 
 - EEG Brainwave Dataset(Kaggle)
